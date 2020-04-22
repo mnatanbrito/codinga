@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "codinga-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Mais mandinga do que código",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Marcos Natan <mnatan.brito@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/mnatanbrito/codinga"
   },
   "dependencies": {
     "gatsby": "^2.20.25",
@@ -38,15 +38,16 @@
   "devDependencies": {
     "prettier": "2.0.4"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/mnatanbrito/codinga#readme",
   "keywords": [
-    "gatsby"
+    "codinga",
+    "personal-blog"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/mnatanbrito/codinga.git"
   },
   "scripts": {
     "build": "gatsby build",

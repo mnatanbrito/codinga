@@ -2,6 +2,9 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import Logo from "./logo"
+import Avatar from "./avatar"
+import TwoColumnContent from "./twoColumContainer"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -52,17 +55,24 @@ const Layout = ({ location, title, children }) => {
       style={{
         marginLeft: `auto`,
         marginRight: `auto`,
-        maxWidth: rhythm(24),
+        maxWidth: rhythm(50),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+
+        border: "1pt solid red",
       }}
     >
-      <header>{header}</header>
-      <main>{children}</main>
-      <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
-      </footer>
+      <TwoColumnContent
+        leftComponent={<Avatar />}
+        rightComponent={
+          <div>
+            <header>
+              <Logo title={title} />
+            </header>
+            <main>{children}</main>
+            <footer>© {new Date().getFullYear()}</footer>
+          </div>
+        }
+      />
     </div>
   )
 }

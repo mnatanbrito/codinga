@@ -1,0 +1,44 @@
+.avatar-wrapper {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.avatar-wrapper > .center {
+  flex-direction: row;
+  justify-content: center;
+  height: 90px;
+}
+
+.avatar-wrapper > .center > .avatar {
+  vertical-align: middle;
+  width: 22;
+  height: 22;
+  border-radius: 50%;
+}
+
+.avatar-wrapper > .socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 30px;
+  width: 75px;
+  align-items: center;
+}
+
+@media screen and (min-width: 768px) {
+  .avatar-wrapper > .center {
+    flex-direction: row;
+    justify-content: center;
+    height: 150px;
+  }
+
+  .avatar-wrapper > .center > .avatar {
+    vertical-align: middle;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+  }
+}

@@ -5,10 +5,10 @@ module.exports = {
       name: `Marcos Natan`,
       summary: `Mais mandinga do que código`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Devaneios, confissões e rompantes de um engenheiro de software.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `mnatanbrito`,
+       twitter: `mnatanbrito`,
     },
   },
   plugins: [

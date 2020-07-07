@@ -2,7 +2,7 @@
   "name": "codinga-blog",
   "private": true,
   "description": "Mais mandinga do que código",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "author": "Marcos Natan <mnatan.brito@gmail.com>",
   "bugs": {
     "url": "https://github.com/mnatanbrito/codinga"
@@ -36,6 +36,7 @@
     "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
+    "cz-conventional-changelog": "3.2.0",
     "prettier": "2.0.4"
   },
   "homepage": "https://github.com/mnatanbrito/codinga#readme",
@@ -56,6 +57,11 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "commit": "npx git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }

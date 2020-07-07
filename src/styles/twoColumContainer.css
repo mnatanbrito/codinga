@@ -3,8 +3,6 @@
   flex: 1;
   flex-direction: row;
   justify-content: flex-start;
-
-  border: 1pt solid blue;
 }
 
 .two-column-container > .left {
@@ -15,7 +13,6 @@
   display: flex;
   flex: 10;
   justify-content: flex-start;
-  border: 1pt solid yellow;
 }
 
 @media screen and (min-width: 768px) {
@@ -24,8 +21,6 @@
     flex: 1;
     flex-direction: row;
     justify-content: flex-start;
-
-    border: 1pt solid blue;
   }
 
   .two-column-container > .left {
@@ -33,13 +28,11 @@
     flex-direction: column;
     justify-content: flex-start;
     flex: 2;
-    border: 1pt solid green;
   }
 
   .two-column-container > .right {
     display: flex;
     flex: 10;
     justify-content: flex-start;
-    border: 1pt solid yellow;
   }
 }

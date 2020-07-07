@@ -1,20 +1,19 @@
 ---
 title: Olá, mundo
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Por que escrevo sobre desenvolvimento de software?
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+`TL;DR`
+Nesse _post_ inicial, trago as minhas motivações para a criação deste espaço de troca de conhecimentos.
 
-## On deer horse aboard tritely yikes and much
+## Escrever como um ato de coragem
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Pode parecer estranho, mas `escrever é um ato de coragem`.
+
+Quem acha que aquele que pinta o papel com tinta o faz de maneira leve e despretenciosa está enganado. Há sempre uma certa tensão envolvida ali. Primeiro porque, de certa forma, o autor está dando sua cara à tapa. Segundo, porque, na maioria das vezes, o exercício criativo não tem por fim simplesmente o prazer da escrita. Há uma mensagem que precisa atingir o seu destinatário da maneira mais inteligível possível.
+
+
 
 - This however showed weasel
 - Well uncritical so misled

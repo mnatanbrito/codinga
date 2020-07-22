@@ -1,6 +1,6 @@
 ---
 title: Olá, mundo
-date: "2015-05-28T22:40:32.169Z"
+date: "2020-07-21T22:40:32.169Z"
 description: Por que escrevo sobre desenvolvimento de software?
 ---
 
@@ -11,97 +11,39 @@ Nesse _post_ inicial, trago as minhas motivações para a criação deste espaç
 
 Pode parecer estranho, mas `escrever é um ato de coragem`.
 
-Quem acha que aquele que pinta o papel com tinta o faz de maneira leve e despretenciosa está enganado. Há sempre uma certa tensão envolvida ali. Primeiro porque, de certa forma, o autor está dando sua cara à tapa. Segundo, porque, na maioria das vezes, o exercício criativo não tem por fim simplesmente o prazer da escrita. Há uma mensagem que precisa atingir o seu destinatário da maneira mais inteligível possível.
+Quem acha que aquele que pinta o papel com tinta o faz de maneira leve e despretenciosa está enganado. Há sempre uma certa tensão envolvida ali.
 
+Primeiro porque, de certa forma, o autor está dando sua cara à tapa ao expor suas ideias às críticas dos que o lêem. Há um receio inerente. Afinal, se eu escrever algo inverídico ou que você, caro leitor, não concorda, é natural que a sua próxima reação seja pelo menos uma das seguintes:
 
+  1. Corrigir
+  2. Criticar __(Nesse contexto, entenda-se crítica negativa)__
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+Segundo, porque, na maioria das vezes, o exercício criativo não tem por fim simplesmente o prazer da escrita. Há uma mensagem que precisa atingir o seu destinatário da maneira mais inteligível possível.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+## Escrever como um exercício de aprendizado
 
-### Overlaid the jeepers uselessly much excluding
+Ensinar foi, é e sempre será a [melhor forma de aprender](https://journals.sagepub.com/doi/abs/10.3102/00028312019002237). O mundo já está careca de saber.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+Como diria [Cora Coralina](https://pt.wikipedia.org/wiki/Cora_Coralina):
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+> Feliz aquele que transfere o que sabe e aprende o que ensina
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+Pra que eu possa efetivamente passar qualquer mensagem para outra pessoa e esperar que essa mensagem seja compreendida, é necessário que antes eu a tenha solidificado de tal maneira em meu pensamento que ela esteja clara o suficiente para que eu possa explicar.
 
-### According a funnily until pre-set or arrogant well cheerful
+Para que essa solidificação aconteça, é necessário que o indivíduo seja exposto a um determinado assunto em num nível de profundidade maior do que aquele que ele seria exposto normalmente.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+É um ciclo virtuoso 🔁 ✅
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+## Show don't Tell
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+Por fim, mas não menos importante: `Show don't tell (Mostre, não fale)`.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+Essa é uma técnica de [storytelling](https://en.wikipedia.org/wiki/Storytelling) muito utilizada pelo meio artístico / literário para prender a atenção do espectador / leitor.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+Em resumo, essa técnica prega a utilização de histórias que contenham a mensagem que queremos transmitir, ao invés de simplesmente transmitir a mensagem nua e crua.
 
-#### Silent delightfully including because before one up barring chameleon
+O ser humano é um bicho muito [visual](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574956/). É muito mais provável que entendamos um determinado conceito se conseguirmos relacioná-lo com experiências reais.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+_Storytelling_ nada mais é do que uma tentativa de reconhecer essa natureza e usá-la a nosso favor.
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
-
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
-
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
-
-###### Slapped cozy a that lightheartedly and far
-
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+Esse blog é simplesmente um exercício de _storytelling_.
